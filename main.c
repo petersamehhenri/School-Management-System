@@ -1,5 +1,5 @@
 
-#include "updated_school.h"
+#include "school.h"
 
 int main() {
     // number of attempts = 5
